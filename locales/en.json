@@ -1,0 +1,22 @@
+{
+  "header.title": "Dream Weaver AI",
+  "header.subtitle": "Your personal guide to the subconscious realm.",
+  "footer.copy": "© {year} Dream Weaver AI. Interpretations are for entertainment purposes.",
+  "error.title": "An error occurred:",
+  "error.tryAgain": "Try Again",
+  "dreamInput.title": "Describe Your Dream",
+  "dreamInput.subtitle": "Write down everything you can remember, no matter how fragmented or strange it seems. The more details, the better.",
+  "dreamInput.placeholder": "I was in a forest made of glass, and the moon was singing...",
+  "dreamInput.button.loading": "Processing...",
+  "dreamInput.button.submit": "Unlock Insights",
+  "questions.title": "Let's Clarify a Few Things",
+  "questions.subtitle": "Your answers will help create a more vivid picture of your dream.",
+  "questions.iDontRemember": "I don't remember",
+  "questions.button.loading": "Analyzing...",
+  "questions.button.submit": "Weave My Dream",
+  "results.narrativeTitle": "Augmented Narrative",
+  "results.interpretationTitle": "Interpretation",
+  "results.button.reset": "Explore Another Dream",
+  "loader.summoning": "Summoning questions from the ether...",
+  "loader.weaving": "Weaving the threads of your dream..."
+}

@@ -1,0 +1,22 @@
+{
+  "header.title": "Tejedor de Sueños IA",
+  "header.subtitle": "Tu guía personal al reino del subconsciente.",
+  "footer.copy": "© {year} Tejedor de Sueños IA. Las interpretaciones son para fines de entretenimiento.",
+  "error.title": "Ocurrió un error:",
+  "error.tryAgain": "Intentar de Nuevo",
+  "dreamInput.title": "Describe tu Sueño",
+  "dreamInput.subtitle": "Escribe todo lo que puedas recordar, sin importar lo fragmentado o extraño que parezca. Cuantos más detalles, mejor.",
+  "dreamInput.placeholder": "Estaba en un bosque de cristal, y la luna cantaba...",
+  "dreamInput.button.loading": "Procesando...",
+  "dreamInput.button.submit": "Revelar Perspectivas",
+  "questions.title": "Aclaremos Algunas Cosas",
+  "questions.subtitle": "Tus respuestas ayudarán a crear una imagen más vívida de tu sueño.",
+  "questions.iDontRemember": "No recuerdo",
+  "questions.button.loading": "Analizando...",
+  "questions.button.submit": "Tejer mi Sueño",
+  "results.narrativeTitle": "Narrativa Aumentada",
+  "results.interpretationTitle": "Interpretación",
+  "results.button.reset": "Explorar Otro Sueño",
+  "loader.summoning": "Invocando preguntas desde el éter...",
+  "loader.weaving": "Tejiendo los hilos de tu sueño..."
+}
